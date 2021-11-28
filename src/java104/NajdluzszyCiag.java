@@ -1,9 +1,10 @@
+package java104;
 import java.util.Scanner;
 
 public class NajdluzszyCiag {
     public static void main(String[] args) {
 
-
+        System.out.println("Podaj rozmiar tablicy");
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
 
